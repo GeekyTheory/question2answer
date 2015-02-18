@@ -74,7 +74,7 @@ body.body-overflow {
 }
 
 a {
-	color: #1abb9c;
+	color: #ff6c60;
 	text-decoration: none;
 }
 a:active, a:focus {
@@ -83,7 +83,7 @@ a:active, a:focus {
 	outline: 0;
 }
 a:visited {
-	color: #1abb9c;
+	color: #ff6c60;
 	text-decoration: none;
 }
 a:hover {
@@ -453,7 +453,7 @@ blockquote p {
 }
 
 .qam-main-nav-wrapper a:hover {
-	color: #1abb9c;
+	color: #ff6c60;
 }
 
 .qam-menu-toggle {
@@ -648,11 +648,11 @@ blockquote p {
 }
 .qa-nav-main-link.qa-nav-main-selected {
 	/*background: #3498db;*/
-	color: #1abb9c;
+	color: #ff6c60;
 }
 
 .qa-nav-sub {
-	background-color: #1ABB9C;
+	background-color: #ff6c60;
 	color: #fff;
 	text-align: center;
 }
@@ -909,7 +909,7 @@ h1 {
 
 
 h1 a:hover {
-	color: #1abb9c;
+	color: #ff6c60;
 	border-bottom: 0;
 }
 h1 a {
@@ -921,7 +921,7 @@ h1 a {
 }
 h1 a:hover, h1 a:focus {
 	line-height: inherit !important;
-	color: #1abb9c;
+	color: #ff6c60;
 	opacity: 1;
 }
 
@@ -1116,7 +1116,7 @@ h1 a:hover, h1 a:focus {
 }
 
 .qa-a-count-selected {
-	background-color: #1abb9c;
+	background-color: #ff6c60;
 }
 
 
@@ -1291,7 +1291,7 @@ h1 a:hover, h1 a:focus {
 	color: #555555;
 }
 .qa-q-item-title a:hover, .qa-q-item-title a:active, .qa-q-item-title a:focus, .qa-q-item-title {
-	color: #1abb9c;
+	color: #ff6c60;
 }
 .qa-q-item-title:hover .qam-q-list-close-icon {
 	background-color: #c0392b;
@@ -1389,7 +1389,7 @@ h1 a:hover, h1 a:focus {
 
 .qa-tag-link,
 .qa-widget-side .qa-q-view-tag-item {
-	background: #1abb9c;
+	background: #ff6c60;
 	color: #fff !important;
 	display: inline-block;
 	font-family: 'Lato', sans-serif;
@@ -1402,7 +1402,7 @@ h1 a:hover, h1 a:focus {
 }
 .qa-tag-link:hover,
 .qa-widget-side .qa-q-view-tag-item:hover {
-	background: #1abb9c;
+	background: #ff6c60;
 	color: #fff !important;
 	transition: all 0.25s ease-in-out 0s;
 }
@@ -2101,7 +2101,7 @@ input[type="submit"], button {
 .qa-part-form-activity .qa-uf-user-c-posts,
 .qa-part-form-activity .qa-uf-user-q-votes,
 .qa-part-form-activity .qa-uf-user-a-votes {
-	color: #1abb9c;
+	color: #ff6c60;
 }
 .qa-part-form-activity .qa-uf-user-upvotes,
 .qa-part-form-activity .qa-uf-user-upvoteds {
@@ -2484,7 +2484,7 @@ input[type="submit"], button {
 #a_list_title {
 	padding: 10px 20px;
 	margin-bottom: 5px;
-	background: #1abb9c;
+	background: #ff6c60;
 	color: #fff;
 	margin-top: 0;
 }
@@ -2593,18 +2593,18 @@ input[type="submit"], button {
 	background-color: #bdc3c7;
 }
 .qa-a-select-button:hover, .qa-a-select-button:focus {
-	background-color: #1abb9c;
+	background-color: #ff6c60;
 }
 
 .qa-a-unselect-button {
-	background-color: #1abb9c;
+	background-color: #ff6c60;
 }
 .qa-a-unselect-button:hover, .qa-a-unselect-button:focus {
 	background-color: #bdc3c7;
 }
 
 .qa-a-selected {
-	background-color: #1abb9c;
+	background-color: #ff6c60;
 }
 
 @media (max-width: 979px) {
@@ -2615,7 +2615,7 @@ input[type="submit"], button {
 @media (min-width: 980px) {
 	.qa-a-selected-text {
 		font-size: 10px;
-		color: #1abb9c;
+		color: #ff6c60;
 		display: block;
 		line-height: normal;
 		text-align: center;
@@ -2623,7 +2623,7 @@ input[type="submit"], button {
 }
 
 .answer-selected, .qa-a-list-item-selected {
-	border: 1px solid #1abb9c;
+	border: 1px solid #ff6c60;
 }
 
 /*------[ c-list ]------*/

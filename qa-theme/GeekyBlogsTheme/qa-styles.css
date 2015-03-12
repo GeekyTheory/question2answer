@@ -1228,6 +1228,11 @@ h1 a:hover, h1 a:focus {
 		padding-left: 0;
 	}
 }
+@media (max-width: 860px) {
+    .qa-q-item-main {
+        margin-top: 15px;
+    }
+}
 @media (min-width: 320px) {
 	.qa-q-item-main {
 		width: 210px;

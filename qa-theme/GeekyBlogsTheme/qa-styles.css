@@ -2593,7 +2593,7 @@ input[type="submit"], button {
 }
 @media (max-width: 979px) {
 	.qa-a-selection {
-		left: 100px;
+		right: 10px;
 		top: 20px;
 	}
 }

@@ -688,11 +688,11 @@ blockquote p {
 
 @media (max-width: 979px) {
 	.qa-nav-sub-item {
-		font-size: 18px;
-		padding: 20px;
-		/* width: 33.33%; */
-		float: left;
-		display: block;
+        font-size: 16px;
+        padding: 10px;
+        width: 33.33%;
+        float: left;
+        display: block;
 	}
 	.qa-nav-sub-item:nth-child(3) {
 		/*box-shadow: 0 -1px 0 0 #cfd9db inset;*/
@@ -1232,7 +1232,7 @@ h1 a:hover, h1 a:focus {
     .qa-q-item-main {
         margin-top: 15px;
     }
-}
+}/*
 @media (min-width: 320px) {
 	.qa-q-item-main {
 		width: 210px;
@@ -1262,7 +1262,7 @@ h1 a:hover, h1 a:focus {
 	.qa-q-item-main {
 		width: 652px;
 	}
-}
+}*/
 @media (min-width: 800px) {
 	.qa-q-item-main {
 		width: 611px;

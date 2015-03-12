@@ -313,12 +313,18 @@ blockquote p {
 	margin: 0 10px 10px;
 }
 
-.qa-error, .qa-warning, .qa-notice {
+.qa-error, .qa-warning{
 	margin-bottom: 5px;
 	padding: 10px;
 	color: #fff;
 }
-.qa-error a, .qa-warning a, .qa-notice a {
+.qa-notice{
+    margin-bottom: 5px;
+    padding: 10px;
+    color: #656565;
+}
+
+  .qa-error a, .qa-warning a, .qa-notice a {
 	color: #fff;
 	border-bottom: 1px dotted #fff;
 }

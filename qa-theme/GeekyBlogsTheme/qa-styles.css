@@ -2443,7 +2443,7 @@ input[type="submit"], button {
 .qa-q-view-buttons {
 	margin-top: 10px;
 	padding-top: 10px;
-	border-top: 1px solid #dee1e3;
+	/*border-top: 1px solid #dee1e3;*/
 }
 .qa-q-view-buttons .qa-waiting {
 	float: right;
@@ -2567,7 +2567,7 @@ input[type="submit"], button {
 }
 
 .qa-a-item-meta {
-	border-bottom: 1px solid #bdc3c7;
+	/*border-bottom: 1px solid #bdc3c7;*/
 	display: block;
 }
 @media (max-width: 979px) {
@@ -2581,7 +2581,7 @@ input[type="submit"], button {
 .qa-a-item-buttons {
 	margin-top: 10px;
 	padding-top: 10px;
-	border-top: 1px solid #dee1e3;
+	/*border-top: 1px solid #dee1e3;*/
 }
 .qa-a-item-buttons .qa-waiting {
 	float: right;
@@ -2735,7 +2735,7 @@ input[type="submit"], button {
 }
 
 .qa-c-item-avatar-meta {
-	font-size: 12px;
+	/*font-size: 12px;*/
 	display: block;
 	margin-bottom: 10px;
 }
@@ -2747,10 +2747,6 @@ input[type="submit"], button {
 	*/
 }
 
-.qa-c-item-meta {
-	border-bottom: 1px solid #d6dadb;
-	display: block;
-}
 @media (max-width: 767px) {
 	.qa-c-item-meta {
 		font-size: 0.875em;
@@ -2767,7 +2763,7 @@ input[type="submit"], button {
 .qa-c-item-buttons {
 	margin-top: 10px;
 	padding-top: 10px;
-	border-top: 1px solid #d6dadb;
+	/*border-top: 1px solid #d6dadb;*/
 }
 .qa-c-item-buttons .qa-waiting {
 	float: right;
